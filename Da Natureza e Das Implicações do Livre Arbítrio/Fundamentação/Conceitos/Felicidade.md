@@ -7,7 +7,7 @@ Algumas ponderações sobre a felicidade e sua relação com essas métricas sã
 
 Entende-se que felicidade e tristeza são sentimentos separados e coexistentes, não opostos, porém, para o caso específico do resultado de uma decisão, não é possível que haja essa superposição, pois ou o resultado agrada ou desagrada;
 
-Entende-se que o benefício real obtido e $\Sigma '$, $R$, contribui positivamente para a felicidade;
+Entende-se que o benefício real obtido e $\Omega '$, $R$, contribui positivamente para a felicidade;
 
 Entende-se que a expectativa de benefício, $E$, contribui negativamente para a felicidade, contrabalanceando $R$;
 
